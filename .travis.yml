@@ -2,7 +2,7 @@ language: csharp
 solution: Calculator.sln
 sudo: required
 mono: none
-dotnet: 2.1.0
+dotnet: 2.1
 dist: trusty
 before_script:
   - dotnet restore
