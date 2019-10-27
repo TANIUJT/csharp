@@ -2,9 +2,9 @@ language: csharp
 solution: Calculator.sln
 sudo: required
 mono: none
-dotnet: 2.0.0
+dotnet: 2.1.0
 dist: trusty
 before_script:
   - dotnet restore
 script:
-  - dotnet test ./CalcTests -c Release -f netcoreapp2.0
+  - dotnet test ./CalcTests -c Release -f netcoreapp2.1
