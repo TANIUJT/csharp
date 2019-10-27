@@ -1,0 +1,17 @@
+/Users/viktoriaanisimova/Projects/Calculator/CalcTests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/viktoriaanisimova/Projects/Calculator/CalcTests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/viktoriaanisimova/Projects/Calculator/CalcTests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/viktoriaanisimova/Projects/Calculator/CalcTests/bin/Debug/netcoreapp2.1/CalcTests.deps.json
+/Users/viktoriaanisimova/Projects/Calculator/CalcTests/bin/Debug/netcoreapp2.1/CalcTests.runtimeconfig.json
+/Users/viktoriaanisimova/Projects/Calculator/CalcTests/bin/Debug/netcoreapp2.1/CalcTests.runtimeconfig.dev.json
+/Users/viktoriaanisimova/Projects/Calculator/CalcTests/bin/Debug/netcoreapp2.1/CalcTests.dll
+/Users/viktoriaanisimova/Projects/Calculator/CalcTests/bin/Debug/netcoreapp2.1/CalcTests.pdb
+/Users/viktoriaanisimova/Projects/Calculator/CalcTests/bin/Debug/netcoreapp2.1/Calculator.dll
+/Users/viktoriaanisimova/Projects/Calculator/CalcTests/bin/Debug/netcoreapp2.1/Calculator.pdb
+/Users/viktoriaanisimova/Projects/Calculator/CalcTests/obj/Debug/netcoreapp2.1/CalcTests.csprojAssemblyReference.cache
+/Users/viktoriaanisimova/Projects/Calculator/CalcTests/obj/Debug/netcoreapp2.1/CalcTests.csproj.CoreCompileInputs.cache
+/Users/viktoriaanisimova/Projects/Calculator/CalcTests/obj/Debug/netcoreapp2.1/CalcTests.AssemblyInfoInputs.cache
+/Users/viktoriaanisimova/Projects/Calculator/CalcTests/obj/Debug/netcoreapp2.1/CalcTests.AssemblyInfo.cs
+/Users/viktoriaanisimova/Projects/Calculator/CalcTests/obj/Debug/netcoreapp2.1/CalcTests.csproj.CopyComplete
+/Users/viktoriaanisimova/Projects/Calculator/CalcTests/obj/Debug/netcoreapp2.1/CalcTests.dll
+/Users/viktoriaanisimova/Projects/Calculator/CalcTests/obj/Debug/netcoreapp2.1/CalcTests.pdb
