@@ -2,22 +2,11 @@ language: csharp
 solution: Calculator.sln
 os:
     - linux
-    - osx
 env:
     - TARGET_CPU=amd64 BUILD_CONFIGURATION=Debug
     - TARGET_CPU=amd64 BUILD_CONFIGURATION=Release
     - TARGET_CPU=x86 BUILD_CONFIGURATION=Debug
     - TARGET_CPU=x86 BUILD_CONFIGURATION=Release
-matrix:
-    exclude:
-        - os:       osx
-          compiler: gcc
-
-        - os:  osx
-          env: TARGET_CPU=x86 BUILD_CONFIGURATION=Debug
-
-        - os:  osx
-          env: TARGET_CPU=x86 BUILD_CONFIGURATION=Release
 sudo: required
 mono: none
 dotnet: 2.1
